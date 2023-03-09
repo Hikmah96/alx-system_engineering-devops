@@ -1,1 +1,1 @@
-switch the current user
+username of the current user
