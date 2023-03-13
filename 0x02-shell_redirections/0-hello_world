@@ -1,2 +1,2 @@
 #!/bin/bash
-cat file> 0-hello_world
+echo 'Hello, World'
