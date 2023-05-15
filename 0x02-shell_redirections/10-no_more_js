@@ -1,2 +1,2 @@
 #!/bin/bash
-find . file *j.s | rm
+find . file *j.s -delete
