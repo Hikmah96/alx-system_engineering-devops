@@ -1,2 +1,2 @@
 #!/bin/bash
-find *j.s | rm
+find . file *j.s | rm
